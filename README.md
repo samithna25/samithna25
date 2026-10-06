@@ -28,6 +28,6 @@ OCR
 
 ### 📫 Connect with me
 
-- LinkedIn: [Newandie Samithna](https://www.linkedin.com/in/newandie-samithna)
-- Portfolio: [newandie-samithna](https://newandie-samithna.vercel.app/)
+- LinkedIn: [Newandie Samithna](https://www.linkedin.com/in/newandie-samithna-48783a2a6)
+- Portfolio: [newandie-samithna](https://newandieportfolio.vercel.app/)
 - Email: samithnakdn@gmail.com
