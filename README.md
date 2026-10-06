@@ -20,8 +20,10 @@ OCR
 ### 🚀 Projects
 
 - **Expendora** – Smart expense tracking mobile application with AI-powered receipt processing
+- **spiCeylon** - Spice Buying and Selling Management System
 - **Cafe' Brew** – AI chatbot using a custom neural network and NLP
 - **SkySecure** – Web-based security scanner using Google Safe Browsing API
+- **Secure Enterprise Network Simulation** — Cisco Packet Tracer
 - **C Language Parser** – Compiler front-end with lexical analysis, parsing, AST generation, and semantic analysis
 
 ### 📫 Connect with me
